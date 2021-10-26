@@ -1,0 +1,114 @@
+body{
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container .row{
+    padding-top:40px;
+    padding-bottom: 40px;
+
+}
+.navbar .nav-list{
+    padding-right:40px;
+    color:#cc9543;
+}
+
+.courses {
+    background-color:#f3f3f3;
+    
+}
+.courses .container{
+    display:flex;
+    flex-direction:column;
+    margin:auto;
+}
+.courses .container .row{
+    justify-content: center;
+}
+.success-stories{
+    background-image:linear-gradient(to bottom,#fff,#eee);
+}
+
+img{
+    width:40%;
+    margin:auto;
+}
+.course{
+    background-color: white;
+}
+.btn{
+    padding:20px 30px;
+}
+.btn-1{
+    background-color: #6abfc3;
+    color:white;    
+}
+.odin{
+    width:100%;
+}
+
+#comment-1{
+    display:flex;
+    flex-direction: row;
+}
+.comment .profile{
+    flex:1;
+    
+}
+#comment-1 .profile img{
+    width:70%;
+    border-radius:50%;
+}
+.comment .story{
+    flex:9;
+}
+#social-media{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size:1.5em;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: normal;
+}
+@media screen and (max-width:640px){
+.container .row .course{
+    margin-right:0px;
+}
+}
+@media screen and (min-width:641px) and (max-width:1006px){
+    .container .row .course{
+        margin-right:10px;
+    }
+}
+@media screen and (min-width:641px) and (min-width:1007px){
+    .container .row .course{
+        margin-right:20px;
+    }
+}
+.container{
+    padding-top:40px;
+    padding-bottom:40px;
+}
+
+footer .row{
+    display:flex; 
+    align-items:center;
+}
+
+.orange{
+    color:#cc9543;
+}
+
+.gray{
+    color: rgba(74,74,74,0.7);
+}
+@media screen and (min-width:401px){
+    .heading{
+        font-size:2em;
+    }
+ }
+@media screen and (max-width:400px){
+   .heading{
+       font-size:1.3em;
+   }
+}

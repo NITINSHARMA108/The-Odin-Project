@@ -95,7 +95,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-2 {
       width: 16%;
@@ -107,7 +107,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-3 {
       width: 24%;
@@ -119,7 +119,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-4 {
       width: 32%;
@@ -131,7 +131,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-5 {
       width: 40%;
@@ -143,7 +143,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-6 {
       width: 48%;
@@ -155,7 +155,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-7 {
       width: 56%;
@@ -167,7 +167,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-8 {
       width: 64%;
@@ -179,7 +179,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-9 {
       width: 72%;
@@ -191,7 +191,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-10 {
       width: 80%;
@@ -203,7 +203,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-11 {
       width: 88%;
@@ -215,7 +215,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container-fluid .row .column-12 {
       width: 96%;
@@ -227,7 +227,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
   }
   @media screen and (max-width: 1007px) and (min-width: 641px) {
@@ -544,7 +544,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-2 {
       width: 16%;
@@ -556,7 +556,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-3 {
       width: 24%;
@@ -568,7 +568,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-4 {
       width: 32%;
@@ -580,7 +580,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-5 {
       width: 40%;
@@ -592,7 +592,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-6 {
       width: 48%;
@@ -604,7 +604,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-7 {
       width: 56%;
@@ -616,7 +616,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-8 {
       width: 64%;
@@ -628,7 +628,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-9 {
       width: 72%;
@@ -640,7 +640,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-10 {
       width: 80%;
@@ -652,7 +652,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-11 {
       width: 88%;
@@ -664,7 +664,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
     .container .row .column-12 {
       width: 96%;
@@ -676,7 +676,7 @@ body {
       box-sizing: border-box;
       margin-top: 20px;
       margin-bottom: 20px;
-      font-size: 12px;
+      font-size: 14px;
     }
   }
   @media screen and (max-width: 1007px) and (min-width: 641px) {
